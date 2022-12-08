@@ -96,7 +96,7 @@ p[class="quotation"]{
    .container:nth-of-type(2){
     grid-column: 1/5;
     grid-row: 2/3;
-   }   
+   }
    .container:nth-of-type(3){
     grid-column: 1/5;
     grid-row: 3/4;
