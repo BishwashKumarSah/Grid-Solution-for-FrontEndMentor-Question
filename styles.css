@@ -16,10 +16,11 @@ img{
 }
 .testimonials{
   width: 80%;
-  margin:60px auto; 
-  display: grid;  
-  grid-template-columns: repeat(4,0.5fr);
+  margin:100px auto; 
+  display: grid;    
+  grid-template-columns: repeat(4,0.5fr);  
   gap: 20px;
+  
 }
 
 .container{   
@@ -111,7 +112,8 @@ p[class="quotation"]{
 
   footer{
     text-align: center;
-    padding-bottom: 50px;
+    margin-bottom: 30px;
+    margin-top: -60px;
   }
 
 
